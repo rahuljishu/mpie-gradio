@@ -1,0 +1,6 @@
+gradio>=4.27
+huggingface_hub>=0.23
+matplotlib
+reportlab
+pandas
+scikit-learn
